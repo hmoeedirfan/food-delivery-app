@@ -1,16 +1,22 @@
-# food_delivery_app
+# Flutter Food Delivery App UI
 
-A new Flutter project.
+## Development Setup 
+Clone the repository and run the following commands:
 
-## Getting Started
+```
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Screen Shots 
 
-A few resources to get you started if this is your first Flutter project:
+<img src = "https://github.com/hmoeedirfan/food-delivery-app/assets/99192107/42871dd1-23bb-4f85-98ef-7875c62f06bd" height = 500>&nbsp;
+<img src = "https://github.com/hmoeedirfan/food-delivery-app/assets/99192107/6a8fc8a4-bea1-411e-b3ed-b2390f1200a0" height = 500>&nbsp;
+<img src = "https://github.com/hmoeedirfan/food-delivery-app/assets/99192107/82fef382-59ec-422b-b0f1-33811e3d9e57" height = 500>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Links
+
+* [LinkedIn](https://linkedin.com/in/hmoeedirfan)
+* [Twitter](https://twitter.com/hmoeedirfan)
+* [Instagram](https://instagram.com/hmoeedirfan)
